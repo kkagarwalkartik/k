@@ -5,6 +5,7 @@ function App() {
     
     Anm,jpp
   {/* com1 */}
+  {/* com2 */}
   
   </div>;
 }
